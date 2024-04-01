@@ -23,3 +23,9 @@ void bubbleSort(int arr[], int size){
         }
     }
 }
+
+int main(){
+    int array[SIZE];
+    int sortedArray[SIZE];
+    srand(time(NULL));
+}
